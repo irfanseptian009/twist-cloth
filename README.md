@@ -76,5 +76,16 @@ Consider adding instructions for setting up the backend API and any environment 
 
 Currently, two official plugins are available:
 
+
+![image](https://github.com/user-attachments/assets/a066a9eb-5495-4d18-8d8b-07323a83caa2)
+
+![image](https://github.com/user-attachments/assets/35f30cbd-d1a7-474f-9e19-808928c51ef3)
+
+![image](https://github.com/user-attachments/assets/e5927ae1-ec8e-481e-a2b9-7848ec39abac)
+
+
+
+
+
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
