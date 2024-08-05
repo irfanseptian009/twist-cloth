@@ -25,7 +25,7 @@ Installation
 Clone the Repository:
 
 Bash
-git clone https://github.com/your-username/twist-and-cloth.git
+git clone https://github.com/irfanseptian009/twist-cloth
 Use code with caution.
 
 Install Dependencies:
