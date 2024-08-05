@@ -41,21 +41,7 @@ Bash
 npm run dev
 Use code with caution.
 
-Directory Structure
 
-twist-and-cloth/
-├── public/             # Static assets (images, icons, etc.)
-├── src/                # Main source code
-│   ├── components/     # Reusable React components
-│   ├── pages/          # Page components
-│   ├── redux/          # Redux logic (slices, actions, reducers)
-│   ├── styles/         # Tailwind CSS files
-│   ├── App.jsx         # Root application component
-│   ├── index.jsx       # Application entry point
-├── .env                # Environment variables (API keys, etc.)
-├── package.json        # Project configuration file
-├── README.md           # This file!
-Backend API
 
 Twist & Cloth requires a backend API to provide product data, manage shopping carts, process orders, etc. Ensure you have a compatible backend API before running the application.
 
